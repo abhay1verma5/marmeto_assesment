@@ -1,3 +1,6 @@
+# deployment link 
+https://sparkly-malasada-c90b35.netlify.app/
+
 # Responsive Product Showcase
 
 This is a simple responsive product showcase webpage designed for a fictional online store. The page is built using HTML, CSS, and JavaScript.
@@ -39,3 +42,5 @@ Each product card contains:
 - **HTML:** For structuring the webpage content.
 - **CSS:** For styling and layout.
 - **JavaScript:** For dynamic content loading and discount percentage calculation.
+
+- 
